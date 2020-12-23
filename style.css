@@ -373,3 +373,8 @@ h2 {
     margin-bottom: 183px;
     width: 16px;
 }
+@media screen and (max-width:400){
+    body{
+        display: none;
+    }
+}
