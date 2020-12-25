@@ -437,6 +437,10 @@ h6 {
     color: white;
     padding: 10px auto;
 }
+.car__img {
+    display: flex;
+    justify-content: space-around;
+}
 .card__img {
     display: flex;
     flex-direction: column;
@@ -455,5 +459,8 @@ h6 {
     font-size: 14px;
     line-height: 24px;
     color: rgba(37, 43, 66, 1);
-
+    margin-bottom: 2%;
+}
+.cov-2 {
+    
 }
