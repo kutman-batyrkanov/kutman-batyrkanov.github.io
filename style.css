@@ -417,6 +417,7 @@ h6 {
     width: 100%;
     height: 723px;
     background-color: rgba(37, 43, 66, 1);
+    margin-bottom: -2%;
 }
 .intro__inner-5 {
     text-align: center;
@@ -462,5 +463,117 @@ h6 {
     margin-bottom: 2%;
 }
 .cov-2 {
-    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgba(115, 115, 115, 1);
+    margin-top: 5px;
+    width: 92px;
+    margin-left: 110px;
 }
+.cov-3 {}
+
+.container__make {
+    width: 100%;
+    height: 821px;
+    background-image: url(./img/make.png);
+}
+.intro__make {
+   display: flex;
+   padding-top: 50px;
+   padding-left: 195px;
+}
+.card__make {
+    width: 602px;
+    height: 572px;
+}
+.make__contant {
+    width: 458px;
+    height: 74px;
+}
+.make__h5 {
+    color: white;
+    padding-top: 40px;
+    font-family: 'Martel', serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.make__h2 {
+    color: white;
+    padding-top: 0px;
+    font-family: 'Martel', serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+}
+.make__input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 100px;
+}
+.make__inp {
+    width: 258px;
+    height: 50px;
+    border-radius: 5px;
+}
+.second {
+    padding-top: 20px;
+}
+.make__massage {
+    padding-top: 20px;
+}
+.make__massg {
+    width: 598px;
+    height: 140px;
+    border-radius: 5px;
+}
+.make--btn {
+    width: 215px;
+    height: 58px;
+    padding: 15px 40px;
+    margin-top: 40px;
+    background-color: rgba(208, 161, 68, 1);
+    border-radius: 5px;
+}
+.make--btn:hover {
+    cursor: pointer;
+}
+.btn__text {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+}
+.us__container {
+    width: 100%;
+    height: 142px;
+}
+.intro__us {
+    display: flex;
+    margin: 0px 195px;
+    width: 1050px;
+    height: 142px;
+    background-color: rgb(172, 161, 161);
+}
+.us__words {
+    display: flex;
+    margin-top: 40px;
+    width: 1050px;
+    height: 62px;
+    background-color: rgb(158, 39, 39);
+}
+.us__introwords {
+    display: flex;
+    width: 454px;
+    height: 62px;
+}
+.us__h3 {
+    color: white;
+    margin-top: 0px;
+    width: 874px;
+}
+
