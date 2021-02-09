@@ -128,10 +128,10 @@ a {
 }
 
 .inner_card {
-    display: flex;
+    
     max-width: 248px;
     margin: 0 auto;
-    flex-direction: column;
+
 }
 .book__inp {
     width: 254px;
@@ -172,16 +172,212 @@ a {
     letter-spacing: 0.4px;
 }
 
-@media (max-width: 768px) {
-    ul {
+/* content================================ */
+
+.content {
+    background-color: rgba(37, 43, 66, 1);
+
+}
+.inner_content {
+    max-width: 1050px;
+    margin: 0 auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 80px;
+    
+
+}
+.content_text {
+    text-align: center;
+   
+}
+.content_cards{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+  
+}
+.concard1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+}
+.concard1s{
+    background-color: white;
+    line-height: 24px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.concar1dlogo{
+    display: flex;
+    align-items: center;
+    background-color: rgba(246, 228, 215, 1);
+}
+.concardlink {
+    color:  rgba(208, 161, 68, 1);
+}
+
+/* second list text======================================================= */
+
+.practice {
+    color: white;
+    font-family: 'Martel', serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+}
+.problems {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    max-width: 431px;
+    margin: 0 auto;
+    padding-top: 10px;
+
+}
+
+/* cards============================================================== */
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    padding-bottom: 87px;
+   
+}
+.logo__card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 36px 20px 36px;
+}
+.cardh5{
+    padding-left: 15px;
+}
+.inner__card{
+    background-color: rgba(246, 228, 215, 1);
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 100%;
+}
+.text__card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px 35px 40px 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+.card__link {
+    color: #D0A114;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+/* third list============================================================= */
+
+.content2 {
+    background-color: #252B42;
+}
+.inner__content2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 1040px;
+    padding-top: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+.img2 {
+    width: 877px;
+    padding-top: 50px;
+    padding-bottom: 87px;
+}
+.textwho {
+    max-width: 251px;
+    margin: 0 auto;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    font-weight: bold;
+    font-family: 'Martel', serif;
+    color: white;
+}
+.trying {
+    max-width: 431px;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+
+
+
+.conteiner3{
+    background-color: #252B42;
+}
+.conter {
+    max-width: 1050px;
+    margin: 0 auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 80px; 
+}
+.conteiner-text {
+    text-align: center;
+}
+
+/* concards======================================================  */
+
+
+.con3__card {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    padding-bottom: 87px;
+
+}
+.concard3__inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 36px 20px 36px; 
+}
+.concard3__logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 36px 20px 36px;
+}
+.concard3_text_slate {
+    max-width: 227px;
+    margin: 0 auto;
+}
+/* @media (max-width: 768px) {
+    setul {
         display: flex;
         padding-left: 0 ;
         flex-direction: column;
         line-height: 10px;
     }
 
-}
-
+} */
+/* 
 @media screen  and (max-width: 1200px) {
     header {
         background-image: none;
@@ -216,5 +412,42 @@ a {
         display: flex;
         align-items: center;
         transform: scale(0.8);
+    } */
+
+    /* second list================================== */
+    /* .cards{
+        margin-top: -35px;
     }
-}  
+    .inner_content{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      width: 25%;
+    
+    }
+    .cards{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .inner__card{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 25px;
+        
+    }
+
+    /* third list================================================== */
+
+    /* .img2{
+      background-image: none;
+      display: none;
+        
+    }
+   .inner__content2{
+       margin-top: -105px;
+      padding-bottom: 45px;
+   }
+ }  */
