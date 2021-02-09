@@ -51,6 +51,12 @@ li {
     text-decoration: none;
     padding: 25px;
 }
+li:nth-child(6){
+    padding-left:25px ;
+    padding-top: 25px;
+    padding-bottom: 25;
+    padding-right: 0;
+}
 .litigade {
     color: white;
     font-family: 'Martel', serif;
