@@ -181,3 +181,10 @@ a {
  .content {
   background-color: rgba(37, 43, 66, 1);
 }
+.inner_content {
+  max-width: 1050px;
+  margin: 0 auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 80px;
+}
