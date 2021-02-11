@@ -346,5 +346,11 @@ a {
     width: 700px;
     flex-wrap: wrap;
   }
-  
-  
+  .in-1 {
+    padding: 15px;
+    margin: 15px;
+    width: 284px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+  }
