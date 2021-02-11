@@ -391,4 +391,13 @@ a {
     max-width: 89px;
     color: white;
   }
+  .make_h1 {
+    font-family: "Martel", serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: white;
+  }
+  
   
