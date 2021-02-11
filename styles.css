@@ -415,5 +415,13 @@ a {
     padding: 15px;
     line-height: 1.2;
   }
+  .rtext_h2 {
+    font-family: "Martel", serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    padding-top: 40px;
+}
 
   
