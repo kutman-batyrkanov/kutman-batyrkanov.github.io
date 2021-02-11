@@ -238,3 +238,10 @@ a {
 }
 
 /* cards============================================================== */
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+  padding-bottom: 87px;
+}
