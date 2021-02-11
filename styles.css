@@ -286,3 +286,13 @@ a {
  .content2 {
   background-color: #252b42;
 }
+.inner__content2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 1040px;
+  padding-top: 80px;
+  margin: 0 auto;
+  text-align: center;
+}
