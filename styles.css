@@ -118,3 +118,7 @@ a {
   outline: none;
   border: 1px solid white;
 }
+.btn1,
+.btn2:hover {
+  cursor: pointer;
+}
