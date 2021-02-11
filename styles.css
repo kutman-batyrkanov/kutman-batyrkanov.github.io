@@ -123,15 +123,14 @@ a {
   cursor: pointer;
 }
 
- /* card========================== */
+/* card========================== */
 
- 
- .card {
+.card {
   width: 328px;
   background-color: white;
   margin-top: -134px;
   border-radius: 10px;
-} 
+}
 .inner_card {
   max-width: 248px;
   margin: 0 auto;
@@ -176,9 +175,9 @@ a {
   letter-spacing: 0.4px;
 }
 
- /* content================================ */
+/* content================================ */
 
- .content {
+.content {
   background-color: rgba(37, 43, 66, 1);
 }
 .inner_content {
@@ -216,9 +215,9 @@ a {
   color: rgba(208, 161, 68, 1);
 }
 
- /* second list text======================================================= */
+/* second list text======================================================= */
 
- .practice {
+.practice {
   color: white;
   font-family: "Martel", serif;
   font-weight: 700;
@@ -281,9 +280,9 @@ a {
   letter-spacing: 0.2px;
 }
 
- /* third list============================================================= */
+/* third list============================================================= */
 
- .content2 {
+.content2 {
   background-color: #252b42;
 }
 .inner__content2 {
@@ -323,105 +322,112 @@ a {
   color: white;
 }
 
+/* =====================================*/
 
-  /* =====================================*/
-
-  .big-cont {
-    background-image: url(./img/make.png);
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-  .contact {
-    height: 100%;
-    max-width: 1050px;
-    margin: 0 auto;
-  }
-  .contact-us {
-    display: flex;
-    flex-direction: column;
-    padding: 80px 50px;
-  }
-  .full-name {
-    display: flex;
-    width: 700px;
-    flex-wrap: wrap;
-  }
-  .in-1 {
-    padding: 15px;
-    margin: 15px;
-    width: 284px;
-    height: 50px;
-    border-radius: 5px;
-    background-color: white;
-  }
-  .big-in-1 {
-    margin-left: 15px;
-    margin-top: 20px;
-    padding: 100px;
-    width: 598px;
-    height: 140px;
-    border-radius: 5px;
-    background-color: white;
-  }
-  .btn-d-a {
-    margin: 15px;
-    margin-top: 45px;
-    padding: 15px 40px;
-    width: 215px;
-    height: 58px;
-    background-color: rgba(208, 161, 68, 1);
-    outline: none;
-    border-radius: 5px;
-    margin-bottom: 99px;
-  }
-  .book {
-    color: white;
-    font-family: "Open Sans", sans-serif;
-    font-size: 14px;
-    line-height: 28px;
-    font-weight: 700;
-    letter-spacing: 0.2px;
-  }
-  .contact_text {
-    font-family: "Martel", serif;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.1px;
-    max-width: 89px;
-    color: white;
-  }
-  .make_h1 {
-    font-family: "Martel", serif;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 50px;
-    letter-spacing: 0.2px;
-    color: white;
-  }
-  .request {
-    background-color: white;
-    max-width: 1050px;
-    margin: 0 auto;
-  }
-  .request-1 {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .request-a {
-    display: flex;
-    flex-direction: column;
-    padding: 15px;
-    line-height: 1.2;
-  }
-  .rtext_h2 {
-    font-family: "Martel", serif;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 32px;
-    letter-spacing: 0.1px;
-    padding-top: 40px;
+.big-cont {
+  background-image: url(./img/make.png);
+  background-position: center;
+  background-repeat: no-repeat;
 }
-
-  
+.contact {
+  height: 100%;
+  max-width: 1050px;
+  margin: 0 auto;
+}
+.contact-us {
+  display: flex;
+  flex-direction: column;
+  padding: 80px 50px;
+}
+.full-name {
+  display: flex;
+  width: 700px;
+  flex-wrap: wrap;
+}
+.in-1 {
+  padding: 15px;
+  margin: 15px;
+  width: 284px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: white;
+}
+.big-in-1 {
+  margin-left: 15px;
+  margin-top: 20px;
+  padding: 100px;
+  width: 598px;
+  height: 140px;
+  border-radius: 5px;
+  background-color: white;
+}
+.btn-d-a {
+  margin: 15px;
+  margin-top: 45px;
+  padding: 15px 40px;
+  width: 215px;
+  height: 58px;
+  background-color: rgba(208, 161, 68, 1);
+  outline: none;
+  border-radius: 5px;
+  margin-bottom: 99px;
+}
+.book {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.contact_text {
+  font-family: "Martel", serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  max-width: 89px;
+  color: white;
+}
+.make_h1 {
+  font-family: "Martel", serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  color: white;
+}
+.request {
+  background-color: white;
+  max-width: 1050px;
+  margin: 0 auto;
+}
+.request-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.request-a {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  line-height: 1.2;
+}
+.rtext_h2 {
+  font-family: "Martel", serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+  padding-top: 40px;
+}
+.rtext_p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: rgba(115, 115, 115, 1);
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
