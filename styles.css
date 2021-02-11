@@ -217,3 +217,11 @@ a {
 }
 
  /* second list text======================================================= */
+
+ .practice {
+  color: white;
+  font-family: "Martel", serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+}
