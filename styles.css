@@ -196,3 +196,8 @@ a {
   justify-content: space-evenly;
   padding-top: 80px;
 }
+.concard1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+}
