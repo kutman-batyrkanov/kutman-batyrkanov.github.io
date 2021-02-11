@@ -136,3 +136,9 @@ a {
   max-width: 248px;
   margin: 0 auto;
 }
+.book__inp {
+  width: 254px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid #bdbdbd;
+}
