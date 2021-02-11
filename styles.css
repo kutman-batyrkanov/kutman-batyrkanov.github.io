@@ -399,5 +399,10 @@ a {
     letter-spacing: 0.2px;
     color: white;
   }
-  
+  .request {
+    background-color: white;
+    max-width: 1050px;
+    margin: 0 auto;
+  }
+
   
