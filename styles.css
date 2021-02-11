@@ -201,3 +201,9 @@ a {
   justify-content: space-evenly;
   padding-top: 80px;
 }
+.concard1s {
+  background-color: white;
+  line-height: 24px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
