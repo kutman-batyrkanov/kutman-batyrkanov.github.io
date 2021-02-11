@@ -301,3 +301,13 @@ a {
   padding-top: 50px;
   padding-bottom: 87px;
 }
+.textwho {
+  max-width: 251px;
+  margin: 0 auto;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  font-weight: bold;
+  font-family: "Martel", serif;
+  color: white;
+}
