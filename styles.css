@@ -341,4 +341,10 @@ a {
     flex-direction: column;
     padding: 80px 50px;
   }
+  .full-name {
+    display: flex;
+    width: 700px;
+    flex-wrap: wrap;
+  }
+  
   
