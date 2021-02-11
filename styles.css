@@ -156,3 +156,22 @@ a {
   padding-top: 10px;
   padding-bottom: 12px;
 }
+.inner__btn {
+  width: 254px;
+  max-width: 254px;
+  margin: 0 auto;
+  height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #295c7a;
+  color: white;
+  border-radius: 5px;
+  padding: 15px 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+}
