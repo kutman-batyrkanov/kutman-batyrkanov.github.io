@@ -177,3 +177,7 @@ a {
 }
 
  /* content================================ */
+
+ .content {
+  background-color: rgba(37, 43, 66, 1);
+}
