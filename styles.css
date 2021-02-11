@@ -325,3 +325,9 @@ a {
 
 
   /* =====================================*/
+
+  .big-cont {
+    background-image: url(./img/make.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
