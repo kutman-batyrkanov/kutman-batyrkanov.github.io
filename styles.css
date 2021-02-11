@@ -191,3 +191,8 @@ a {
 .content_text {
   text-align: center;
 }
+.content_cards {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+}
