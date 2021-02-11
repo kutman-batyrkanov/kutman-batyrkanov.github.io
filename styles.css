@@ -124,3 +124,11 @@ a {
 }
 
  /* card========================== */
+
+ 
+ .card {
+  width: 328px;
+  background-color: white;
+  margin-top: -134px;
+  border-radius: 10px;
+} 
