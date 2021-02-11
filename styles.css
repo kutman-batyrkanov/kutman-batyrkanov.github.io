@@ -142,3 +142,12 @@ a {
   border-radius: 5px;
   border: 1px solid #bdbdbd;
 }
+.bookap {
+  font-family: "Martel", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
