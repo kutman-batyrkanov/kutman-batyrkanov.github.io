@@ -272,3 +272,11 @@ a {
   letter-spacing: 0.2px;
   color: #737373;
 }
+.card__link {
+  color: #d0a114;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+}
