@@ -73,3 +73,8 @@ a {
   justify-content: space-between;
   margin: 0 auto;
 }
+.inner_in {
+  display: flex;
+  flex-direction: column;
+}
+
