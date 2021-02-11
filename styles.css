@@ -132,3 +132,7 @@ a {
   margin-top: -134px;
   border-radius: 10px;
 } 
+.inner_card {
+  max-width: 248px;
+  margin: 0 auto;
+}
