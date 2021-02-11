@@ -85,7 +85,6 @@ a {
   max-width: 300px;
   line-height: 65px;
 }
-
 .weknow {
   color: white;
   font-family: "Montserrat", sans-serif;
@@ -96,4 +95,17 @@ a {
   padding-top: 35px;
 }
 
+/* button========================================== */
 
+.button {
+  padding-top: 35px;
+}
+
+.btn1 {
+  border-radius: 37px;
+  padding: 12px 35px;
+  background-color: rgba(208, 161, 68, 1);
+  color: white;
+  outline: none;
+  border: none;
+}
