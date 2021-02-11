@@ -77,4 +77,23 @@ a {
   display: flex;
   flex-direction: column;
 }
+.legal {
+  color: white;
+  font-family: "Martel", serif;
+  font-weight: 700;
+  font-size: 53px;
+  max-width: 300px;
+  line-height: 65px;
+}
+
+.weknow {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  max-width: 350px;
+  line-height: 30px;
+  padding-top: 35px;
+}
+
 
