@@ -382,4 +382,13 @@ a {
     font-weight: 700;
     letter-spacing: 0.2px;
   }
+  .contact_text {
+    font-family: "Martel", serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    max-width: 89px;
+    color: white;
+  }
   
