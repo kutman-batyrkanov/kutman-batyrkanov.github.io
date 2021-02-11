@@ -109,3 +109,12 @@ a {
   outline: none;
   border: none;
 }
+
+.btn2 {
+  border-radius: 37px;
+  padding: 12px 35px;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  outline: none;
+  border: 1px solid white;
+}
