@@ -245,3 +245,9 @@ a {
   padding-top: 80px;
   padding-bottom: 87px;
 }
+.logo__card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 36px 20px 36px;
+}
