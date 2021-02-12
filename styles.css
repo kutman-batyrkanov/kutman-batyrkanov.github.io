@@ -548,6 +548,14 @@ footer {
   padding-top: 25px;
   padding-bottom: 25px;
 }
+.finish_p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: white;
+}
 @media (max-width: 1050px) {
   .inner {
     display: flex;
