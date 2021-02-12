@@ -499,6 +499,9 @@ footer {
   letter-spacing: 0.2px;
   color: #bdbdbd;
 }
+.footer_ul {
+  padding-bottom: 70px;
+}
 @media (max-width: 1050px) {
   .inner {
     display: flex;
