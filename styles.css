@@ -539,6 +539,9 @@ footer {
   line-height: 32px;
   color: white;
 }
+.finish {
+  background-color: #295c7a;
+}
 @media (max-width: 1050px) {
   .inner {
     display: flex;
