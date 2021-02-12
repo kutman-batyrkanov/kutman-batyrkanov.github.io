@@ -488,6 +488,17 @@ footer {
   /* line-height: 24px; */
   letter-spacing: 0.1px;
 }
+.footer_link {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  /* line-height: 24px; */
+  letter-spacing: 0.2px;
+  color: #bdbdbd;
+}
 @media (max-width: 1050px) {
   .inner {
     display: flex;
