@@ -474,6 +474,10 @@ footer {
   padding-top: 53px;
   padding-bottom: 57px;
 }
+.footer_nav {
+  display: flex;
+  justify-content: space-between;
+}
 @media (max-width: 1050px) {
   .inner {
     display: flex;
