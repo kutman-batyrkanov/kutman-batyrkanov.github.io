@@ -830,6 +830,13 @@ footer {
     flex-direction: column;
     margin-bottom: -160px;
   }
+  .lili {
+    margin-top: -25.5px;
+  }
+  .imglist {
+    /* margin-top: -35px; */
+    align-items: center;
+  }
   .inner {
     display: flex;
     align-items: center;
